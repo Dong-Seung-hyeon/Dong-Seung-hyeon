@@ -1,33 +1,48 @@
-<h1>Introduction</h1>
+# Daniel 👋
 
-Front-end Developer 목표로 열심히 공부중인 대학생입니다! <br>
-지금은 한없이 부족한 신입이지만 부족한 부분을 채우고 전문적인 개발자로 발전해 나아가려고 노력하는 재미로 열심히 공부중입니다.<br>
-<br>
-<br>
+**Frontend Developer** | 이 계정은 Pre-Career (학교 & 부트캠프) 프로젝트 계정입니다.
 
-<h1>Technical Stack</h1>
+실무 계정: [![Work](https://img.shields.io/badge/seunghyeonD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seunghyeonD)
 
-<h4>Language</h4>
-<div style="display: flex">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> -->
-  
-  <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> -->
-</div>
+---
 
-<!-- <h4>프레임워크</h4>
-<div style="display: flex">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-</div> -->
+## 📂 Pre-Career Projects
 
-<h4>ETC</h4>
-<div style="display: flex">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-</div>
-<br>
-<hr>
+### Face-Change - AI 얼굴 스타일 변환 서비스
+**Frontend Lead** | 2022.07 - 2022.08 | [2022-Summer-Bootcamp-Team-F](https://github.com/2022-Summer-Bootcamp-Team-F)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dong-Seung-hyeon)
+AI 기반 얼굴 사진 스타일 변환 웹 서비스. 프론트엔드 전체 담당 (100+ commits)
+
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### AI 이미지 편집 플랫폼
+**Frontend Developer** | 2022.09 | [AI-Pre-Internship-TeamG](https://github.com/AI-Pre-Internship-TeamG)
+
+Canvas 기반 실시간 이미지 편집기 + OAuth 소셜 로그인 (55+ commits)
+
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 내손을잡아 - 유기동물 입양 서비스
+**Android Developer** | 2022.02 | [Catch-my-hand](https://github.com/Catch-my-hand)
+
+유기동물 입양 신청, 채팅, SNS 기능 Android 앱 (40+ commits)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+---
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/dww7541@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dww7541@gmail.com)
